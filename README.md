@@ -1,5 +1,5 @@
 # rhizome-api-js
-### version: 1.0.0-3
+### version: 1.0.0
 Node.js API for [Rhizome](https://github.com/coders-for-corbyn/rhizome).
 
 ## Installation
