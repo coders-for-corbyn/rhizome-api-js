@@ -1,6 +1,9 @@
 # rhizome-api-js
-### version: 1.0.2
 Node.js API for [Rhizome](https://github.com/coders-for-corbyn/rhizome).
+
+## What's New
+### version: 1.0.5
+- Logging in now updates all authenticating app information (not just the tokens)
 
 ## Installation
 `npm install rhizome-js-api`
